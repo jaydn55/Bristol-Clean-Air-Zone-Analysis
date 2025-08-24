@@ -1,2 +1,5 @@
 .venv
 venv
+data\ContinuousAirQuality2018-2023.zip
+ContinuousAirQuality.csv
+processed_data.csv
