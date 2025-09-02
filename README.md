@@ -82,5 +82,6 @@ This project provides a strong foundation for future research and analysis. Pote
 
 * `data/`: Raw and processed data files.
 * `img/`: Images from project.
+* `notebooks/`: Jupyter notebooks detailing the data exploration, preprocessing and statistical analysis.
 * `README.md`: This file.
 * `requirements.txt`: A list of all necessary Python libraries to run the project.
